@@ -11,16 +11,3 @@ This project is a web application developed with Flask. The user can start a 30-
 - Side panel with selected crop name and image
 - "Planting completed" message at the end of the simulation
 
-## Installation
-1. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-2. Start the application:
-   ```
-   python app.py
-   ```
-3. Open your browser and go to `http://127.0.0.1:5000`.
-
-## Note
-You can add sample images to the `static` folder for crops. Currently, placeholder images are used.
